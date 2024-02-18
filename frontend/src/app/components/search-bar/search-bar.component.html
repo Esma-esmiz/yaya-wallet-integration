@@ -1,0 +1,12 @@
+<!-- floatLabel="never" -->
+<form [formGroup]="searchForm" (submit)="submit()">
+  <mat-form-field appearance="fill" >
+    <mat-label>search by user</mat-label>
+    <input matInput placeholder=""  formControlName="search" type="text"/>
+  </mat-form-field>
+
+    <button mat-icon-button type="submit">
+      <mat-icon matPrefix>search</mat-icon>
+    </button>
+ 
+</form>

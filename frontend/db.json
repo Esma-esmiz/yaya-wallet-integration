@@ -1,0 +1,22 @@
+{
+  "transaction": [
+    {
+      "Transaction_ID": "1",
+      "Sender": "abebe",
+      "Receiver": "kebede",
+      "Amount": 500,
+      "Currency": "USD",
+      "Cause": "12",
+      "Created_At": "2020-12-2"
+    },
+    {
+      "Transaction_ID": "2",
+      "Sender": "chaltu",
+      "Receiver": "chala",
+      "Amount": 500,
+      "Currency": "birr",
+      "Cause": "23",
+      "Created_At": "2020-12-2"
+    }
+  ]
+}
